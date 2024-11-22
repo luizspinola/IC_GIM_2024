@@ -1,0 +1,8 @@
+names_vector,icc_vector,snr_vector
+"Nomes","ICC","SNR"
+"Original","0.02605","1.8478"
+"Roberts","0.05621","1.7395"
+"Sobel","0.031883","1.8811"
+"Prewitt","0.031254","1.8814"
+"Frei-Chen","0.036765","2.1007"
+"Média não Local","0.0072749","1.9161"
